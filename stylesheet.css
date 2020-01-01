@@ -6,7 +6,7 @@
     padding: 10px 150px 10px 150px;
 
 border-radius: 20px;
-background-color: #FFF8DC;
+background-color: #99ccff;
 
 text-align: left;
 }
@@ -37,4 +37,8 @@ h4 {
 li {
 	font-size: 18px;
 	text-align: left;
+}
+
+.Me {
+	width: 400px;
 }
